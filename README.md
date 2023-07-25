@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `ng serve` for a dev server. If any errors occur, you might need to run `npm install`.  Navigate to `http://localhost:4200/` to view the lab instructions. The application will automatically reload if you change any of the source files.
+Run `npm start` for a dev server. If any errors occur, you might need to run `npm install`.  Navigate to `http://localhost:4200/` to view the lab instructions. The application will automatically reload if you change any of the source files.
 
 ## Running unit tests
 

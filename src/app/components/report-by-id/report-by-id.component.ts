@@ -17,6 +17,7 @@ export class ReportByIdComponent implements OnInit {
    * TODO: Fill out the subscription to the Observable to load the report into this component.
    */
   loadReport () : void{
+    this.spaceAPI.getReportsByIdAPI(this.input).subscribe(json => this.report = json);
 
   }
 
